@@ -1,0 +1,18 @@
+{
+  "Plantilla Práctica 1": {
+    "descripción": "Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.",
+    "tareas": [
+      "Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.",
+      "Añadir un fichero datos.json en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato JSON."
+    ],
+    "Irene Rubiales Argüelles": {
+      "imagen": "/ira00026foto.jpeg",
+      "descripción": "Estudiante de Informática de la Universidad de Jaén.",
+      "detalles": {
+        "Correo": "ira00026@red.ujaen.es",
+        "GitHub": "https://github.com/ira00026",
+        "Trello": "https://trello.com/u/ira00026/boards"
+      }
+    }
+  }
+}
