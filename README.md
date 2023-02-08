@@ -11,4 +11,4 @@ Tus tareas consisten en:
 Estudiante de Informática de la Universidad de Jaén.
 * **Correo**: ira00026@red.ujaen.es
 * **GitHub**: https://github.com/ira00026
-* **Trello**: https://trello.com/u/ira00026/boards
+* **Trello**: https://trello.com/invite/b/sPKz2Kig/ATTIe39299078c7e71b2e0a02cf9d487ee17580873C9/practica-1
